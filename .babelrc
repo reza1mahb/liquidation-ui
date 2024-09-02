@@ -2,7 +2,7 @@
   "presets": ["react-app"],
   "plugins":[
     [
-      "react-intl-auto",
+      "react-intl-auto",765
       {
       "removePrefix": "src/"
       }
